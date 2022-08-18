@@ -1,7 +1,7 @@
 ﻿Console.Write("Who r u? ");
 string username = Console.ReadLine();
 
-if (username.ToLower() == "Lokrion")
+if (username.ToLower() == "lokrion")
 {
     Console.WriteLine("Wow it's u");
 }
